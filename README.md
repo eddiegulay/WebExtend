@@ -32,4 +32,4 @@ This Android app acts as a WebView container, allowing users to effortlessly acc
 Contributions are welcome! Feel free to report issues, suggest improvements, or contribute to the development of this app. Let's make web content easily accessible on Android!
 
 ## Creator
-    (Eddie Gulay)[https://eddiegulay.github.io]
+   - eddiegulay
